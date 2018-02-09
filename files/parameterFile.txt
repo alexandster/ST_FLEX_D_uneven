@@ -1,9 +1,0 @@
-1	2	3	4	5	6	
-2500.00	14.00	100.00	1.00	50.000000	0.01
-
-# p1 = spatial bandwidth
-# p2 = temporal bandwidth
-# p3 = spatial resolution
-# p4 = temporal resolution
-# p5 = number of points threshold (T1)
-# p6 = buffer ratio threshold (T2)
